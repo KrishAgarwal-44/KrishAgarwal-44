@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portfolio--krish--44.vercel.app-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-krish-44.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Krish%20Agarwal-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-krish-44.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-KrishAgarwal--44-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishAgarwal-44)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Agarwal-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-agarwal-)
 
@@ -54,7 +54,6 @@ const krish = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Tools & DevOps**
 
@@ -80,16 +79,6 @@ const krish = {
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishAgarwal-44&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=a78bfa&sideNums=ffffff&dates=888888" height="165"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KrishAgarwal-44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
