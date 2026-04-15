@@ -13,7 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portfolio--krish--44.vercel.app-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-krish-44.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-KrishAgarwal--44-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishAgarwal-44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Agarwal-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishagarwal44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Agarwal-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-agarwal-)
 
 </div>
 
